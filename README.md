@@ -42,6 +42,7 @@ In his internationally bestselling, now classic volume, The Selfish Gene, Dawkin
 - [Harry F. Harlow, "Love in Infant Monkeys", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
 - [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 - [Stanley Milgram, "Milgram Experiment", 1963](http://www.simplypsychology.org/milgram.html)
+- [Extended IQ & Cognitive Bias Challenge](https://ordinarymantrying.com/tools/iq-challenge-extended.html) — 20 interactive questions covering the Cognitive Reflection Test, Monty Hall problem, Linda problem (conjunction fallacy), Wason selection task, gambler's fallacy, and anchoring. Average score: 11/20. Free, no login, runs in the browser.
 
 ## Self-Development
 - [Carol S. Dweck, "Mindset: The New Psychology of Success", 2007](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)  
@@ -65,7 +66,9 @@ In 24 lectures brimming with practical tips, tools, and techniques everyone can 
 - ["Algorithms to Live By: The Computer Science of Human Decisions", Brian Christian, Tom Griffiths, 2016](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)  
 - ["Decisive: How to Make Better Choices in Life and Work", Chip Heath, Dan Heath, 2013](https://www.amazon.com/Decisive-Make-Better-Choices-Life-ebook/dp/B009JU6UPG)  
 - ["Predictably Irrational: The Hidden Forces That Shape Our Decisions", Dr. Dan Ariely, 2009](https://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/0061854549)  
-- ["Thinking, Fast and Slow", Daniel Kahneman, 2011](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)  
+- ["Thinking, Fast and Slow", Daniel Kahneman, 2011](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637)
+- [Gandhi Life Simulator](https://ordinarymantrying.com/tools/gandhi-simulator.html) — Interactive browser tool presenting 7 pivotal real decisions from Gandhi's life (1906–1948). You decide blind, then see what he actually chose. Covers principles of nonviolence, moral courage, and the Satyagraha philosophy.
+- [Lincoln Life Simulator](https://ordinarymantrying.com/tools/lincoln-simulator.html) — 7 key decisions from Lincoln's presidency (1858–1865), including the Emancipation Proclamation timing and the "with malice toward none" approach. Explores decision-making under extreme pressure and moral leadership.  
 
 ### Discipline
 - ["Discipline Equals Freedom: Field Manual", Jocko Willink, 2017](https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947)

@@ -11,6 +11,7 @@ Suggestions and contributions are always welcome!
   - [Discipline](#discipline)
   - [Happiness](#happiness)
   - [Negotiation](#negotiation)
+- [Interactive Tools](#interactive-tools)
 - [Ted Talks](#ted-talks)
 - [University Courses](#university-courses)
   - [MIT](#mit)
@@ -85,6 +86,9 @@ In 24 lectures brimming with practical tips, tools, and techniques everyone can 
 - ["Getting to Yes: Negotiating Agreement Without Giving In", Roger Fisher, William L. Ury, Bruce Patton, 2011](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)  
 - ["Never Split the Difference: Negotiating As If Your Life Depended On It", Chris Voss, 2016](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)  
 - ["The Great Courses: The Art of Negotiating the Best Deal", Seth Freeman, 2014](https://www.amazon.com/Art-Negotiating-Best-Deal/dp/B00K2NEINA)  
+
+## Interactive Tools
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws with 320+ real-world scenarios. Focuses on recognition over memorization.
 
 ## Ted Talks
 - [Jonathan Haidt, "The moral roots of liberals and conservatives", 2008](http://www.ted.com/talks/jonathan_haidt_on_the_moral_mind)  

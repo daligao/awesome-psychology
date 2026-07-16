@@ -42,6 +42,7 @@ In his internationally bestselling, now classic volume, The Selfish Gene, Dawkin
 - [Harry F. Harlow, "Love in Infant Monkeys", 1959](https://en.wikipedia.org/wiki/Harry_Harlow#Monkey_studies)
 - [Philip Zimbardo, "The Stanford Prison Experiment", 1971](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
 - [Stanley Milgram, "Milgram Experiment", 1963](http://www.simplypsychology.org/milgram.html)
+- [daligao, "Mind Traps Quiz", 2024](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz testing real-world cognitive bias recognition. 8,000+ participants; 72% miss Confirmation Bias even after knowing its definition.
 
 ## Self-Development
 - [Carol S. Dweck, "Mindset: The New Psychology of Success", 2007](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)  
